@@ -1,4 +1,4 @@
-To view this site, please visit https://johnsabrams.com/.
+To view this site, please visit https://kicomataj.com.
 
 All of this code was originally provided by Jason Downing (https://github.com/JasonD94/). I forked his repository, and have customized his code in order to learn more about CSS/HTML and fit my needs. Below is a snippet from his original "README.md":
 
