@@ -30,7 +30,7 @@
 
 /*  For the GitHub Section link
     These styles make the GitHub Section header appear white all the time,
-    unless hovered on, in which case they turn orange. I like this style better.
+    unless hovered on, in which case they turn peach. I like this style better.
 
     I also decided to use borders instead of underlines since the J in Jason gets cut
     off by an underline, but not by a border (which looks exactly like an underline only
@@ -42,8 +42,8 @@
     https://www.w3schools.com/css/css_link.asp
     https://www.w3schools.com/css/tryit.asp?filename=trycss_link2
 */
-.text-orange {
-  color: orange;
+.text-peach {
+  color: peach;
   border-bottom: 1px solid currentColor;
 }
   /* 6/15/2018: Renamed because Creative Bootstrap ALSO has a text-white class,
@@ -55,8 +55,8 @@
 }
 
 /* Link color when it is unvisited */
-a.text-orange:link  {
-  color: orange;
+a.text-peach:link  {
+  color: peach;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:link  {
@@ -65,8 +65,8 @@ a.text-white-link:link  {
 }
 
 /* Link color after being clicked on and visited */
-a.text-orange:visited {
-  color: orange;
+a.text-peach:visited {
+  color: peach;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:visited {
@@ -75,20 +75,20 @@ a.text-white-link:visited {
 }
 
 /* Link color while being hovered on */
-a.text-orange:hover {
-  color: orange;
+a.text-peach:hover {
+  color: peach;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 a.text-white-link:hover {
-  color: orange;
+  color: peach;
   border-bottom: 1px solid currentColor;
   text-decoration: none;
 }
 
 /* Link color the moment it is clicked */
-a.text-orange:active {
-  color: orange;
+a.text-peach:active {
+  color: peach;
   border-bottom: 1px solid currentColor;
 }
 a.text-white-link:active {
@@ -139,7 +139,7 @@ a.text-white-link:active {
 	background-color: #262626 !important;
 }
 .btn-black:active, .btn-black:focus {
-	box-shadow:0 0 0 .2rem rgba(255,179,92,.5)!important;
+	box-shadow:0 0 0 .2rem rgba(255,189,161,.5)!important;
 }
 
 /* Black hrefs & hrs too */
